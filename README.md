@@ -7,7 +7,7 @@ Minecraft resource pack that changes Relic disc to Love messenger by shyfruits!
 
 HOW TO INSTALL:
 
-1) download Love-Messenger-(music-disc)
+1) download Love Messenger (Music Disc)
 2) put in minecraft/resourcepack
 3) ok
 
