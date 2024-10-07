@@ -1,8 +1,8 @@
 Minecraft resource pack that changes Relic disc to Love messenger by shyfruits!
 
 **Shyfruits**
-  YT: https://www.youtube.com/@shyfruits
-  TWIT/X: https://x.com/shyfruits
+- YT: https://www.youtube.com/@shyfruits
+- TWIT/X: https://x.com/shyfruits
 
 
 HOW TO INSTALL:
