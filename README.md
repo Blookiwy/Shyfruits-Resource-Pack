@@ -6,4 +6,10 @@ YT: https://www.youtube.com/@shyfruits
 TWIT/X: https://x.com/shyfruits
 
 
+HOW TO INSTALL:
+
+1) download Shyfruits-Resource-Pack
+2) put in minecraft/resourcepack
+3) ok
+
 (ps. idk how to use github 😔)
