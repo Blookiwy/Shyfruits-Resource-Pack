@@ -11,4 +11,7 @@ HOW TO INSTALL:
 2) put in minecraft/resourcepack
 3) ok
 
+YT tutorial:
+[https://www.youtube.com/watch?v=SydamG-IW24](https://www.youtube.com/watch?v=SydamG-IW24)
+
 (ps. idk how to use github 😔)
